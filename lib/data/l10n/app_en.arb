@@ -1,0 +1,14 @@
+{
+    "titleText": "Change Language",
+    "@titleText":{
+        "description": "Heading Title"
+    },
+    "text": "Good Morning",
+    "@text":{
+        "description":"Good Morning"
+    },
+    "button": "Clear",
+    "@button":{
+        "description":"Clear"
+    }
+}
